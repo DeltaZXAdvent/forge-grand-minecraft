@@ -1,0 +1,27 @@
+#+TITLE: Vanilla Minecraft improving project -- possibly ideal
+* What Minecraft needs
+Minecraft is a game that inspires players -- let them make their own fun -- about creativity
+But there has to be some designs:
+Puzzle solving -- I will say there are two types of puzzles or challenges: strategic and action (real-time)
+
+Real-time puzzles requires some kind of failure
+So I will focus on the survival experience (survival is against death or failure): mobs and combat (maybe by building)
+Relaxation and tension: Day and night but the time length may not be fixed
+If not exploring there could be no challenges i.e. freedom of engaging in challenges
+
+Derived ideas:
+- difficulty parameter, random day night lengths
+- Challenges come from darkness, so the earth model (flat earth, air above ground, caves underground) is good
+  But there have to be limited light sources (we struggle to get light, so light is temporary)
+- In overworld, you have to get through multiple days and nights to get surely out of danger -- the first eternal light
+  to build the first shelter
+  you can't use build techniques to get out of danger from darkness
+  - Spawning strong mobs in dark limited space in player's sight
+  - different speeds of mobs, firstly try random; no sprinting, shields
+  - avoidable arrows but limiting your movements
+  - mobs that can go across heights and that can destory blocks (creeper which doesn't lose track)
+  - larger amount of mobs
+- And in another dimension e.g. nether, you will get more eternal light but nether has a lot of travelling problems
+- Build speed > destruction speed
+
+- If you feel that is too slow-paced there can be maps that has already been progressed
